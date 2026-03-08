@@ -2,77 +2,70 @@
 
 Computer Science, Data Science, and Mathematics student at Augustana College.
 
-Interested in software development, machine learning, and systems programming.
+Interested in software development, machine learning, and programming languages. I enjoy building systems that combine software engineering with data-driven methods.
 
-Captain of the Augustana College men's swimming team and a tenor in the Augustana College Choir.
-
----
-
-## What I'm Working On
-
-Currently building projects involving:
-
-- software development in **Java and Python**
-- **machine learning models** for real-world data
-- **domain-specific languages and compilers**
-- backend systems using **Firebase and cloud services**
+Outside of computing, I captain the Augustana College men's swimming team and sing tenor in the Augustana College Choir.
 
 ---
 
-## Technical Interests
+## Projects
 
-- Software engineering
-- Programming languages and compilers
-- Machine learning and statistical modeling
-- Systems programming
-- Backend application development
+### Morse Code Learning App
+Java / JavaFX application designed to help users learn Morse code through interactive games and simulated radio scenarios.
+
+- Built the UI and multiple training modes (tap-to-spell, decode message, listening practice)
+- Integrated Gemini API to generate dynamic practice conversations
+- Scrum Master for a four-person Agile development team
+
+### LucasLanguage DSL
+A domain-specific language written in Haskell for programming competitive bots in a simulated fossil collection game.
+
+- Designed the language syntax and semantics
+- Implemented the parser and compiler
+- Built a static type checker to prevent invalid programs
+
+### Parking Spot Availability System
+Computer vision pipeline that detects vehicle occupancy in parking spaces.
+
+- Captures periodic snapshots from security cameras
+- Uses YOLOv8 to detect vehicles
+- Updates a website showing available parking spots
+
+### NBA MVP Prediction
+Machine learning project modeling MVP outcomes using player and team statistics.
+
+- Implemented ridge regression in Python
+- Worked with features such as scoring, efficiency, assists, and team performance
+- Compared modeling approaches after initial KNN experiments
 
 ---
 
-## Technologies I Work With
+## Technologies
 
-### Languages
+**Languages**
 - Java
 - Python
 - Haskell
 
-### Frameworks / Tools
+**Frameworks / Tools**
 - JavaFX
 - React Native
 - Firebase
 - Git
 
-### Machine Learning
-- regression models
+**Machine Learning**
+- Regression models
 - ARIMA
-- object detection (YOLOv8)
-- model evaluation and cross validation
+- YOLOv8
 
 ---
 
-## Selected Projects
+## Interests
 
-### Morse Code Learning App
-Java / JavaFX application for learning Morse code through interactive games and AI-driven scenarios using the Gemini API.  
-Served as Scrum Master for a four-person Agile development team.
-
-### LucasLanguage DSL
-A domain-specific language implemented in Haskell to program competitive bots in a simulated fossil collection game.  
-Includes a parser, compiler, and static type checker.
-
-### Parking Spot Availability System
-Computer vision pipeline using YOLOv8 to detect vehicles in parking spaces using camera snapshots and update a website with spot availability.
-
-### NBA MVP Prediction Model
-Machine learning project predicting MVP outcomes using ridge regression and cross-validation on player statistics.
-
----
-
-## Current Focus
-
-- building stronger full software systems
-- improving machine learning workflows
-- expanding experience with distributed systems and cloud platforms
+- Software engineering
+- Programming languages and compilers
+- Machine learning
+- backend systems
 
 ---
 
